@@ -6,8 +6,8 @@ import torch
 from langchain.utilities import SerpAPIWrapper
 
 # API Keys
-SERPER_API_KEY = "21ebf7220b0256281ec6dbb7999426bae6fb8902"
-OPENWEATHERMAP_API_KEY = "94e78fe38fd6cb74cdde79334523ad1a"  # 🔁 Replace with your API key
+SERPER_API_KEY = "k2"
+OPENWEATHERMAP_API_KEY = "k1"  # 🔁 Replace with your API key
 NVIDIA_API_KEY = "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"
 
 # Clients
