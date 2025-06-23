@@ -8,8 +8,8 @@ from langchain.schema import Document  # REMOVED BaseRetriever import
 from typing import List
 
 # 🔐 API keys directly here
-SERPER_API_KEY = "21ebf7220b0256281ec6dbb7999426bae6fb8902" 
-OPENWEATHER_API_KEY = "94e78fe38fd6cb74cdde79334523ad1a"
+SERPER_API_KEY = "my_k1" 
+OPENWEATHER_API_KEY = "my_key"
 
 # 🧠 Load Ollama LLM
 llm = Ollama(model="granite3-dense:2b")
